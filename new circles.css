@@ -1,0 +1,48 @@
+
+body{text-justify: auto;
+  
+    background-image:url(photo_2019-03-21_11-56-16.jpg);
+        background-size: cover ;
+}
+h1{color:rgb(46, 131, 50);  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-style: italic
+    ; padding: 10px;     text-align: left;} h2{color:rgb(29, 107, 158); font-family: Arial, "Helvetica Neue", Helvetica, sans-serif; font-style: italic; 
+        margin-right: 100px; margin-left: 100px; padding: 10px;} 
+        date{color:rgb(12, 243, 31); font-size: 5; background-color: cadetblue; 
+            font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;}  
+p{color: rgb(211, 48, 124); font-weight: 10; text-align: justify; width: 300px; padding: 10px; margin-right: 100px; margin-left: 100px;}  
+.projects{
+    color: rgb(14, 16, 19);  
+    padding: 10px;         
+    text-align: justify;         
+    float:left;         
+    width:50%;        
+     padding:0px;         
+     box-sizing:border-box;    
+    }            
+      button{  
+    position: relative;;                 
+    color: rgb(206, 18, 18);
+    background-image: url(windows-10-uhd-4k-wallpaper.jpg);                 
+     font-size: 20px;                                 
+      border: none;                
+       outline: none;                 
+       left: 0%;                
+        width: 260px;                
+         text-align: left;   
+        }            
+          #sidebar{                 
+              text-align:right;                 
+              float:right;                
+               width:50%;                                  
+               background:none;                 
+               color:#ff123f; 
+    padding:0px;                
+     box-sizing:border-box;             
+    }  
+.dev1{     
+    fill:rgb(51, 147, 136);  } 
+    .dev2{    
+ fill:black;      } 
+ .removed{ 
+     display: none; 
+    }

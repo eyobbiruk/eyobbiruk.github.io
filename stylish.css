@@ -1,0 +1,95 @@
+/* <style type="text/css"> */
+
+
+
+
+body {
+
+        text-align: center;
+        background-color: burlywood;
+        background-image:url(photo_2019-03-21_11-56-16.jpg);
+        background-size: cover ;
+        padding: 100px;
+        padding-top: 10px;
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:rosybrown;
+    color: white;
+}
+p   
+ {
+    stroke:rgb(194, 194, 32);
+    stroke-width: 10px;
+    stroke-dasharray: 3; 
+    fill:rgb(156, 156, 43);
+    fill-opacity: 50%;
+
+}
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    background-color: brown;
+}
+.svgClass {
+    background-color:gray;
+    float:left;
+    width:70%;
+    color:#fff;
+    padding:10px;
+    box-sizing:border-box;
+}
+polygon{
+    fill:white; transition: 1s fill;
+
+}
+polygon:hover {
+    fill: burlywood;
+
+}
+.lideta { stroke:yellow;stroke-width: 2px;stroke-dasharray: 3; fill:yellow;
+fill-opacity: 50%;}
+.kirkos{stroke:greenyellow;stroke-width: 2px;stroke-dasharray: 3; fill:greenyellow;
+fill-opacity: 10%;}
+.nifassilk{stroke:goldenrod;stroke-width: 2px;stroke-dasharray: 3; fill:
+goldenrod; fill-opacity: 50%;}.akakikaliti {stroke:olive;stroke-width: 2px;stroke-dasharray: 3; fill:gainsboro;
+fill-opacity: 10%;}
+.yeka{stroke:lawngreen;stroke-width: 2px;stroke-dasharray: 3;fill:lawngreen;
+fill-opacity: 10%;}
+.bole{stroke:green;stroke-width: 2px;stroke-dasharray: 3; fill:green; fillopacity: 10%;}
+.kolfekeraniyo{stroke: khaki;stroke-width: 2px;stroke-dasharray: 3; fill:
+khaki; fill-opacity: 50%;}
+.addisketema{stroke:palegoldenrod;stroke-width: 2px;stroke-dasharray: 3;
+fill:palegoldenrod;fill-opacity: 50%;}
+.arada{stroke:peru;stroke-width: 2px;stroke-dasharray: 3; fill:peru; fillopacity: 50%;}
+.gulele{stroke:orange;stroke-width: 2px; stroke-dasharray: 3; fill: orange;
+fill-opacity: 50%;}
+
+.removed{
+display: none;
+}
+button{
+
+        position: relative;
+        color: white;
+        font-size: 20px;
+        background:rgb(87, 49, 49);
+        border:none;
+        outline: none;
+        left: 0%;
+        width: 260px;
+        text-align: left;
+}
+button.hover{
+    fill: thistle;
+}
+    #sidebar{
+    text-align: left;
+    float:right;
+    width:30%;
+    background:none;
+    color:#fff;
+    padding:0px;
+    box-sizing:border-box;
+}
